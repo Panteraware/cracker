@@ -26,3 +26,5 @@ go.work.sum
 *.rar
 *.zip
 *.gz
+.idea
+*.txt
